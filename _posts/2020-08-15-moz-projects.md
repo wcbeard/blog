@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data product highlights at Mozilla"
+title:  "Highlights in building data products at Mozilla"
 date:   2020-08-15 19:36:37 -0400
 categories: projects
 ---
