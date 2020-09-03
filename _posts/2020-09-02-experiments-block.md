@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Blocking for to improve experimentation
+title:      Improving experimentation sensitivity with baseline measurements
 date:       2020-09-02
-summary:    Using statistical blocking to improve experimental sensitivity
+summary:    How using statistical blocking and pretreatment variables can improve the precision of effect estimates
 tags:       experimentation
 ---
 
